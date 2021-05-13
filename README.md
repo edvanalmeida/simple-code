@@ -39,6 +39,6 @@ necessário para completá-los.
 
 | Nome                                                                              | Descrição                                                  | Nível      |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- |
-| [Countdown](./Projects/1-Beginner/Countdown-App.md)                               | Simple-Javascript-Countdown                                | 1-Nivel    |
+| [Countdown](./Projetos/1-Nivel/Countdown-App.md)                                  | Simple-Javascript-Countdown                                | 1-Nivel    |
 
 
