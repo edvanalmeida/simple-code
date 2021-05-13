@@ -35,10 +35,10 @@ necessário para completá-los.
 
 🌟 - Novo Projeto
 
-### Tier-1: Beginner Projects
+### Nível-1: Projetos Iniciante
 
 | Nome                                                                              | Descrição                                                  | Nível      |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- |
-| [Countdown](./Projects/1-Beginner/Countdown-App.md)                               | Simple-Javascript-Countdown                                | 1-Beginner |
+| [Countdown](./Projects/1-Beginner/Countdown-App.md)                               | Simple-Javascript-Countdown                                | 1-Nivel    |
 
 
