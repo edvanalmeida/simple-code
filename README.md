@@ -5,7 +5,7 @@
 Você já quis desenvolver algo mas não tem ideia do que fazer ou Por onde começar? 
 Esta lista pretende resolver este problema de uma vez por todas! 👍
 
-Em que me ajuda:
+Como esta lista vai me ajudar:
 
 - ótimo para melhorar suas habilidades de codificação :muscle:;
 - ótimo para experimentar novas tecnologias 🆕;
