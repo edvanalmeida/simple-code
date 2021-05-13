@@ -7,11 +7,11 @@ Esta lista pretende resolver este problema de uma vez por todas! 👍
 
 Em que me ajuda:
 
-- ótimo para melhorar suas habilidades de codificação: músculo :;
+- ótimo para melhorar suas habilidades de codificação :muscle:;
 - ótimo para experimentar novas tecnologias 🆕;
-- ótimo para adicionar ao seu portfólio : file_folder :;
-- ótimo para usar como exemplos em tutoriais (artigos ou vídeos): page_with_curl :;
-- fácil de completar : ok_hand :;
+- ótimo para adicionar ao seu portfólio 📁;
+- ótimo para usar como exemplos em tutoriais (artigos ou vídeos) :page_with_curl:;
+- fácil de completar :ok_hand:;
 
 Esta não é apenas uma lista simples de projetos, mas uma coleção que descreve cada projeto em detalhes suficientes para que você possa desenvolvê-lo do zero!
 
