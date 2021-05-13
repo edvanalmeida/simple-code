@@ -1,31 +1,43 @@
-# Simples Code
+## :ledger: Simple Code
 
-## APIs Abertas
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
 
--
--
+Você já quis desenvolver algo mas não tem ideia do que fazer ou Por onde começar? 
+Esta lista pretende resolver este problema de uma vez por todas! 👍
 
-## Dicas Gerais
+Em que me ajuda:
 
--
--
+- ótimo para melhorar suas habilidades de codificação: músculo :;
+- ótimo para experimentar novas tecnologias 🆕;
+- ótimo para adicionar ao seu portfólio : file_folder :;
+- ótimo para usar como exemplos em tutoriais (artigos ou vídeos): page_with_curl :;
+- fácil de completar : ok_hand :;
 
-## Projects
+Esta não é apenas uma lista simples de projetos, mas uma coleção que descreve cada projeto em detalhes suficientes para que você possa desenvolvê-lo do zero!
 
-Projects are divided into three tiers based on the knowledge and experience
-required to complete them.
+Cada projeto possui os seguintes ** recursos **:
 
-| Tier | Developer Profile                                                                                                                                                |
-| :--: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  1   | Developers in the early stages of their learning journey. Those who are typically focused on creating user-facing applications.                                  |
-|  2   | Developers at an intermediate stage of learning and experience. They are comfortable in UI/UX, using development tools, and building apps that use API services. |
-|  3   | Developers who have all of the above, and are learning more advanced techniques like implementing backend applications and database services.                    |
+1. Objetivo claro e descritivo;
+2. Uma lista de _User Stories_ que deve ser implementada (essas histórias funcionam mais como uma diretriz do que uma lista forçada de _To-Do's._. Sinta-se à vontade para adicionar suas próprias histórias, se desejar);
+3. Uma lista de recursos de bônus que não apenas melhoram o projeto básico, mas também suas habilidades ao mesmo tempo (são opcionais e devem ser feitos somente após você ter concluído as histórias de usuário obrigatórias)
+4. Todos os recursos e links para ajudá-lo a encontrar o que você precisa para concluir o projeto
 
-🌟 - New Project
+## Projetos
+
+Os projetos são divididos em três níveis com base no conhecimento e na experiência
+necessário para completá-los.
+
+| Nível | Perfil do desenvolvedor                                                                                                                                             |
+| :--:  | --------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  1    | Desenvolvedores nos estágios iniciais de sua jornada de aprendizado. Aqueles que normalmente se concentram na criação de aplicativos voltados para o usuário.       |
+|  2    | Desenvolvedores intermediário de aprendizado e experiência. Eles se sentem confortáveis com UI/UX, constroem  aplicativos que usam serviços de API.                 |
+|  3    | Desenvolvedores que têm todos os itens acima e estão aprendendo técnicas mais avançadas, como implementação de aplicativos de back-end e serviços de banco de dados.|
+
+🌟 - Novo Projeto
 
 ### Tier-1: Beginner Projects
 
-| Name                                                                              | Short Description                                          | Tier       |
+| Nome                                                                              | Descrição                                                  | Nível      |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- |
 | [Countdown](./Projects/1-Beginner/Countdown-App.md)                               | Simple-Javascript-Countdown                                | 1-Beginner |
 
